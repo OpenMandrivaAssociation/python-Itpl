@@ -11,7 +11,6 @@ Release:       %{release}
 Source0:       http://www.lfw.org/python/Itpl.py
 License:       Public Domain
 Group:         Development/Python
-BuildRoot:     %{_tmppath}/%{name}-buildroot
 Url:           http://www.python.org/peps/pep-0215.html
 BuildRequires: python-devel
 BuildArch:     noarch
