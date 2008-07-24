@@ -1,7 +1,7 @@
 %define oname   Itpl
 %define name    python-%oname
 %define version 0
-%define release %mkrel 4
+%define release %mkrel 6
 
 
 Summary:       String interpolation (variable expansion) for Python
