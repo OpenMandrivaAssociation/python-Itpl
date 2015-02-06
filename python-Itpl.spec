@@ -1,7 +1,7 @@
 %define oname   Itpl
 %define name    python-%oname
 %define version 0
-%define release 9
+%define release 10
 
 
 Summary:       String interpolation (variable expansion) for Python
